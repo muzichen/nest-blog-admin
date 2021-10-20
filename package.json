@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "@element-plus/icons": "^0.0.11",
+    "axios": "^0.23.0",
     "element-plus": "^1.1.0-beta.21",
     "vue": "^3.2.16",
-    "vue-router": "4"
+    "vue-router": "4",
+    "vue3-markdown-it": "^1.0.9"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
